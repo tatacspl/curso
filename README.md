@@ -10,8 +10,8 @@ São no total 23 aulas e 115 desafios.
 <br>
 
 DESAFIOS:
-* Desafio 001: 
-* Desafio 002: 
+* Desafio 001: Olá, mundo!
+* Desafio 002: prazer em te conchecer
 * Desafio 003: 
 * Desafio 004: 
 * Desafio 005: número antecessor e sucessor  
