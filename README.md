@@ -12,8 +12,8 @@ São no total 23 aulas e 115 desafios.
 DESAFIOS:
 * Desafio 001: Olá, mundo!
 * Desafio 002: prazer em te conhecer
-* Desafio 003: 
-* Desafio 004: 
+* Desafio 003: soma de dois valores
+* Desafio 004: dissecando uma variável
 * Desafio 005: número antecessor e sucessor  
 * Desafio 006: calcular o dobro, o triplo e a raiz quadrada de um número
 * Desafio 007: média de 2 notas  
